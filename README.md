@@ -8,7 +8,7 @@ please visit the issues section to add/report any errors or bugs found please!
 .Victory screen updated
 .Battle system has been updated 
 .AI system adjusted for more cohesive gameplay expierience
-# V1.3 Additions/fIXES & UPDATES
+# V1.3 Additions/FIXES & UPDATES
 . Added "VERSUS" Screen to start of match.
 . Maps now have "Breakable Props".
 . 2 New Stages have been added.
